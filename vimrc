@@ -1,3 +1,6 @@
+" Turn on syntax highlighting
+syntax on
+
 " Background and text color
 highlight Normal ctermfg=lightgrey ctermbg=235
 
